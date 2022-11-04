@@ -1,0 +1,33 @@
+table{
+    margin:0 auto;
+    margin-top: 5rem;
+}
+th,
+table,
+tr,
+td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    border-spacing: 30px;
+    text-align: center;
+}
+th {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 70px;
+    padding-right: 90px;
+}
+td{
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 60px;
+}
+.bd{
+    border-bottom: hidden;
+    padding-top: 4rem;
+    
+ }
+ bd-1{
+    margin: 50px;
+ }
